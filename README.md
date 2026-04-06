@@ -75,12 +75,10 @@ It analyzes **14 NIFTY stocks** over multiple months to provide actionable insig
 
 ## 📁 Project Structure
 
-├── sql/
-│ └── stock_dashboard_pipeline.sql
-├── docs/
-│ └── dashboard_notes.md
-├── screenshots/
-│ └── dashboard.png
+├── data
+├── docs
+├── screenshots
+├── sql
 └── README.md
 
 
